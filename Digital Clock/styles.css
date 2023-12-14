@@ -27,11 +27,6 @@ span {
 .minuteDiv,
 .secondDiv {
   padding: 1.25rem 0.25rem;
-}
-
-.hourDiv,
-.minuteDiv,
-.secondDiv {
   --border-size: 3px;
   --border-angle: 0turn;
   background-image: conic-gradient(
